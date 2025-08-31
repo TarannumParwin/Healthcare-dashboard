@@ -16,7 +16,7 @@ An interactive dashboard built with Streamlit to analyze and visualize diabetes 
 
 🚀 Live Demo
 
-👉 Click here to view the dashboard
+👉 https://tarannumparwin-healthcare-dashboard-app-zqminv.streamlit.app/
 
 🛠️ Tech Stack
 
@@ -54,9 +54,6 @@ Run the Streamlit app:
 
 streamlit run app.py
 
-📸 Screenshots
-
-Add your dashboard screenshots here (UI + graphs).
 
 💡 Future Improvements
 
